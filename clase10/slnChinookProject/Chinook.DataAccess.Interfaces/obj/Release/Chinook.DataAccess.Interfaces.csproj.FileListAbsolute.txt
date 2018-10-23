@@ -1,0 +1,11 @@
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\bin\Release\Chinook.DataAccess.Interfaces.dll
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\bin\Release\Chinook.DataAccess.Interfaces.pdb
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\bin\Release\Chinook.Entities.Base.dll
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\bin\Release\Chinook.Entities.Queries.dll
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\bin\Release\Chinook.Entities.Base.pdb
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\bin\Release\Chinook.Entities.Queries.pdb
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\obj\Release\Chinook.DataAccess.Interfaces.csprojAssemblyReference.cache
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\obj\Release\Chinook.DataAccess.Interfaces.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\obj\Release\Chinook.DataAccess.Interfaces.csproj.CopyComplete
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\obj\Release\Chinook.DataAccess.Interfaces.dll
+C:\cibertec\Developer\profesor\clase10\slnChinookProject\Chinook.DataAccess.Interfaces\obj\Release\Chinook.DataAccess.Interfaces.pdb

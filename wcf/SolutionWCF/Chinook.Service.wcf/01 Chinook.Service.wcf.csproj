@@ -91,11 +91,11 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Chinook.DataAcces.Interface\04 Chinook.DataAcces.Interface.csproj">
+    <ProjectReference Include="..\Chinook.DataAccess.Interfaces\04 Chinook.DataAccess.Interfaces.csproj">
       <Project>{21845d31-6387-49e2-9b07-7ea13624cd15}</Project>
-      <Name>04 Chinook.DataAcces.Interface</Name>
+      <Name>04 Chinook.DataAccess.Interfaces</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Chinook.DataAcces.Repository\03 Chinook.DataAcces.Repository.csproj">
+    <ProjectReference Include="..\Chinook.DataAccess.Repository\03 Chinook.DataAccess.Repository.csproj">
       <Project>{fa3072e5-6791-4aa9-a596-b42b4315161a}</Project>
       <Name>03 Chinook.DataAcces.Repository</Name>
     </ProjectReference>

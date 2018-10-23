@@ -3,17 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Chinook.DataAcces.Interface", "Chinook.DataAcces.Interface\04 Chinook.DataAcces.Interface.csproj", "{21845D31-6387-49E2-9B07-7EA13624CD15}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Chinook.Entities.Base", "Chinook.Entities.Base\05 Chinook.Entities.Base.csproj", "{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Chinook.DataAcces.Queries", "Chinook.DataAcces.Queries\06 Chinook.DataAcces.Queries.csproj", "{63295770-9269-41A3-B616-9710436FA2D7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Chinook.DataAccess.Interfaces", "Chinook.DataAccess.Interfaces\04 Chinook.DataAccess.Interfaces.csproj", "{21845D31-6387-49E2-9B07-7EA13624CD15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Chinook.DataAcces.Repository", "Chinook.DataAcces.Repository\03 Chinook.DataAcces.Repository.csproj", "{FA3072E5-6791-4AA9-A596-B42B4315161A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Chinook.Entities.Queries", "Chinook.Entities.Queries\06 Chinook.Entities.Queries.csproj", "{63295770-9269-41A3-B616-9710436FA2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Chinook.DataAccess.Repository", "Chinook.DataAccess.Repository\03 Chinook.DataAccess.Repository.csproj", "{FA3072E5-6791-4AA9-A596-B42B4315161A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Chinook.DataAccess.Repository.UnitTest", "Chinook.DataAccess.Repository.UnitTest\02 Chinook.DataAccess.Repository.UnitTest.csproj", "{42135C4E-78D3-4250-9A35-B3865F7D8335}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 Chinook.Service.wcf", "Chinook.Service.wcf\01 Chinook.Service.wcf.csproj", "{D9F855E1-1DAC-4210-89E8-567AD185BF7A}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Chinook.DataAcces.Repository.UnitTest", "Chinook.DataAcces.Repository.UnitTest\02 Chinook.DataAcces.Repository.UnitTest.csproj", "{42135C4E-78D3-4250-9A35-B3865F7D8335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,14 +21,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{21845D31-6387-49E2-9B07-7EA13624CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{21845D31-6387-49E2-9B07-7EA13624CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{21845D31-6387-49E2-9B07-7EA13624CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{21845D31-6387-49E2-9B07-7EA13624CD15}.Release|Any CPU.Build.0 = Release|Any CPU
 		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Release|Any CPU.Build.0 = Release|Any CPU
 		{63295770-9269-41A3-B616-9710436FA2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{63295770-9269-41A3-B616-9710436FA2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63295770-9269-41A3-B616-9710436FA2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -37,14 +37,14 @@ Global
 		{FA3072E5-6791-4AA9-A596-B42B4315161A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA3072E5-6791-4AA9-A596-B42B4315161A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA3072E5-6791-4AA9-A596-B42B4315161A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 		{42135C4E-78D3-4250-9A35-B3865F7D8335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{42135C4E-78D3-4250-9A35-B3865F7D8335}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42135C4E-78D3-4250-9A35-B3865F7D8335}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42135C4E-78D3-4250-9A35-B3865F7D8335}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

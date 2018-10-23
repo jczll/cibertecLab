@@ -5,8 +5,8 @@ using System.Runtime.Serialization;
 using System.ServiceModel;
 using System.ServiceModel.Web;
 using System.Text;
-using Chinook.DataAcces.Repository;
-using Chinook.DataAcces.Interface;
+using Chinook.DataAccess.Repository;
+using Chinook.DataAccess.Interfaces;
 using Chinook.Entities.Base;
 using System.Data.Entity;
 
