@@ -1,0 +1,76 @@
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chiook.DataAcces.Repository.dll.config
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chiook.DataAcces.Repository.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chiook.DataAcces.Repository.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chinook.DataAcces.Interface.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chinook.DataAcces.Queries.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chinook.Entities.Base.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\EntityFramework.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chinook.DataAcces.Interface.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chinook.DataAcces.Interface.dll.config
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chinook.DataAcces.Queries.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\Chinook.Entities.Base.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\EntityFramework.xml
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csprojAssemblyReference.cache
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CopyComplete
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\obj\Debug\Chiook.DataAcces.Repository.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Repository\obj\Debug\Chiook.DataAcces.Repository.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.dll.config
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Queries.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entities.Base.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.dll.config
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Queries.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entities.Base.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.xml
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csprojAssemblyReference.cache
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CopyComplete
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\obj\Debug\Chiook.DataAcces.Repository.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAccess.Repository\obj\Debug\Chiook.DataAcces.Repository.pdb
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.dll.config
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.dll
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.pdb
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.dll
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Queries.dll
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entities.Base.dll
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.dll
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.pdb
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.dll.config
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Queries.pdb
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entities.Base.pdb
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.xml
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csprojAssemblyReference.cache
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CopyComplete
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\Chiook.DataAcces.Repository.dll
+C:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\Chiook.DataAcces.Repository.pdb
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.dll.config
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.dll
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chiook.DataAcces.Repository.pdb
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.dll
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Queries.dll
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entities.Base.dll
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.dll
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.pdb
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Interface.dll.config
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.DataAcces.Queries.pdb
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\Chinook.Entities.Base.pdb
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.xml
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csprojAssemblyReference.cache
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CoreCompileInputs.cache
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\03 Chinook.DataAccess.Repository.csproj.CopyComplete
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\Chiook.DataAcces.Repository.dll
+D:\cibertec\Developer\WebForm\SolucionWebForm\Chinook.DataAccess.Repository\obj\Debug\Chiook.DataAcces.Repository.pdb

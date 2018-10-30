@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="b910a177-3c9f-40e0-a6f6-dd5174ec568c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:54850/MantenimientosServices.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="MantenimientosServices.xsd" MetadataType="Schema" ID="a69cc354-d48c-41bf-b257-116faf95a39d" SourceId="1" SourceUrl="http://localhost:54850/MantenimientosServices.svc?xsd=xsd3" />
+    <MetadataFile FileName="MantenimientosServices.wsdl" MetadataType="Wsdl" ID="c4997612-6e7d-4377-a32d-e6fb4239cd77" SourceId="1" SourceUrl="http://localhost:54850/MantenimientosServices.svc?wsdl" />
+    <MetadataFile FileName="MantenimientosServices.disco" MetadataType="Disco" ID="dc3c73c4-d734-4843-be06-2a13891d0688" SourceId="1" SourceUrl="http://localhost:54850/MantenimientosServices.svc?disco" />
+    <MetadataFile FileName="MantenimientosServices1.xsd" MetadataType="Schema" ID="146ccb71-cce1-4c92-a1f9-db78f2218dd7" SourceId="1" SourceUrl="http://localhost:54850/MantenimientosServices.svc?xsd=xsd4" />
+    <MetadataFile FileName="MantenimientosServices2.xsd" MetadataType="Schema" ID="b6e304a7-de72-4d73-bc19-828f51430fdc" SourceId="1" SourceUrl="http://localhost:54850/MantenimientosServices.svc?xsd=xsd0" />
+    <MetadataFile FileName="MantenimientosServices3.xsd" MetadataType="Schema" ID="75ea7a63-d197-45af-9e47-6f2ba456823b" SourceId="1" SourceUrl="http://localhost:54850/MantenimientosServices.svc?xsd=xsd1" />
+    <MetadataFile FileName="MantenimientosServices4.xsd" MetadataType="Schema" ID="2491d0db-e825-489f-9df7-a040c2315a66" SourceId="1" SourceUrl="http://localhost:54850/MantenimientosServices.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

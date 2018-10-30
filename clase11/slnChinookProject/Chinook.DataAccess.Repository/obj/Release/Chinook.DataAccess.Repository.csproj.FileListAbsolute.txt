@@ -1,0 +1,17 @@
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.DataAccess.Repository.dll.config
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.DataAccess.Repository.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.DataAccess.Repository.pdb
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.DataAccess.Interfaces.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.Entities.Base.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.Entities.Queries.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\EntityFramework.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\EntityFramework.SqlServer.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.DataAccess.Interfaces.pdb
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.Entities.Base.pdb
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\Chinook.Entities.Queries.pdb
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\EntityFramework.xml
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\bin\Release\EntityFramework.SqlServer.xml
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\obj\Release\Chinook.DataAccess.Repository.csprojResolveAssemblyReference.cache
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\obj\Release\Chinook.DataAccess.Repository.csproj.CoreCompileInputs.cache
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\obj\Release\Chinook.DataAccess.Repository.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.DataAccess.Repository\obj\Release\Chinook.DataAccess.Repository.pdb

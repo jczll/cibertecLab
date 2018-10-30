@@ -1,6 +1,0 @@
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Queries\bin\Debug\Chinook.DataAcces.Queries.dll
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Queries\bin\Debug\Chinook.DataAcces.Queries.pdb
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Queries\obj\Debug\06 Chinook.Entities.Queries.csprojAssemblyReference.cache
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Queries\obj\Debug\06 Chinook.Entities.Queries.csproj.CoreCompileInputs.cache
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Queries\obj\Debug\Chinook.DataAcces.Queries.dll
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.DataAcces.Queries\obj\Debug\Chinook.DataAcces.Queries.pdb

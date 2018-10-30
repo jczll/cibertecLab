@@ -1,0 +1,5 @@
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.Entities.Base\bin\Release\Chinook.Entities.Base.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.Entities.Base\bin\Release\Chinook.Entities.Base.pdb
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.Entities.Base\obj\Release\Chinook.Entities.Base.csproj.CoreCompileInputs.cache
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.Entities.Base\obj\Release\Chinook.Entities.Base.dll
+D:\cibertec\Developer\clase10\slnChinookProject\Chinook.Entities.Base\obj\Release\Chinook.Entities.Base.pdb

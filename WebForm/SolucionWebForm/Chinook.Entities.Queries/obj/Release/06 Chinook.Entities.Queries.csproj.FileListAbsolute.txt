@@ -1,0 +1,6 @@
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Queries\bin\Release\Chinook.DataAcces.Queries.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Queries\bin\Release\Chinook.DataAcces.Queries.pdb
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Queries\obj\Release\06 Chinook.Entities.Queries.csprojAssemblyReference.cache
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Queries\obj\Release\06 Chinook.Entities.Queries.csproj.CoreCompileInputs.cache
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Queries\obj\Release\Chinook.DataAcces.Queries.dll
+C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Queries\obj\Release\Chinook.DataAcces.Queries.pdb
