@@ -353,6 +353,227 @@ namespace Chinook.UI.WebForm.MantenimientoServices {
         }
     }
     
+    [System.Diagnostics.DebuggerStepThroughAttribute()]
+    [System.CodeDom.Compiler.GeneratedCodeAttribute("System.Runtime.Serialization", "4.0.0.0")]
+    [System.Runtime.Serialization.DataContractAttribute(Name="TracksVendidosQuery", Namespace="http://schemas.datacontract.org/2004/07/Chinook.Entities.Queries")]
+    [System.SerializableAttribute()]
+    public partial class TracksVendidosQuery : object, System.Runtime.Serialization.IExtensibleDataObject, System.ComponentModel.INotifyPropertyChanged {
+        
+        [System.NonSerializedAttribute()]
+        private System.Runtime.Serialization.ExtensionDataObject extensionDataField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int AlbumIdField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int ArtistIdField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string ArtistNameField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int BytesField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string ComposerField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int MediaTypeIdField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string MediaTypeNameField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int MillisecondsField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string TitleField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private int TrackIdField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private string TrackNameField;
+        
+        [System.Runtime.Serialization.OptionalFieldAttribute()]
+        private decimal UnitPriceField;
+        
+        [global::System.ComponentModel.BrowsableAttribute(false)]
+        public System.Runtime.Serialization.ExtensionDataObject ExtensionData {
+            get {
+                return this.extensionDataField;
+            }
+            set {
+                this.extensionDataField = value;
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int AlbumId {
+            get {
+                return this.AlbumIdField;
+            }
+            set {
+                if ((this.AlbumIdField.Equals(value) != true)) {
+                    this.AlbumIdField = value;
+                    this.RaisePropertyChanged("AlbumId");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int ArtistId {
+            get {
+                return this.ArtistIdField;
+            }
+            set {
+                if ((this.ArtistIdField.Equals(value) != true)) {
+                    this.ArtistIdField = value;
+                    this.RaisePropertyChanged("ArtistId");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string ArtistName {
+            get {
+                return this.ArtistNameField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.ArtistNameField, value) != true)) {
+                    this.ArtistNameField = value;
+                    this.RaisePropertyChanged("ArtistName");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int Bytes {
+            get {
+                return this.BytesField;
+            }
+            set {
+                if ((this.BytesField.Equals(value) != true)) {
+                    this.BytesField = value;
+                    this.RaisePropertyChanged("Bytes");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Composer {
+            get {
+                return this.ComposerField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.ComposerField, value) != true)) {
+                    this.ComposerField = value;
+                    this.RaisePropertyChanged("Composer");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int MediaTypeId {
+            get {
+                return this.MediaTypeIdField;
+            }
+            set {
+                if ((this.MediaTypeIdField.Equals(value) != true)) {
+                    this.MediaTypeIdField = value;
+                    this.RaisePropertyChanged("MediaTypeId");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string MediaTypeName {
+            get {
+                return this.MediaTypeNameField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.MediaTypeNameField, value) != true)) {
+                    this.MediaTypeNameField = value;
+                    this.RaisePropertyChanged("MediaTypeName");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int Milliseconds {
+            get {
+                return this.MillisecondsField;
+            }
+            set {
+                if ((this.MillisecondsField.Equals(value) != true)) {
+                    this.MillisecondsField = value;
+                    this.RaisePropertyChanged("Milliseconds");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string Title {
+            get {
+                return this.TitleField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.TitleField, value) != true)) {
+                    this.TitleField = value;
+                    this.RaisePropertyChanged("Title");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public int TrackId {
+            get {
+                return this.TrackIdField;
+            }
+            set {
+                if ((this.TrackIdField.Equals(value) != true)) {
+                    this.TrackIdField = value;
+                    this.RaisePropertyChanged("TrackId");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public string TrackName {
+            get {
+                return this.TrackNameField;
+            }
+            set {
+                if ((object.ReferenceEquals(this.TrackNameField, value) != true)) {
+                    this.TrackNameField = value;
+                    this.RaisePropertyChanged("TrackName");
+                }
+            }
+        }
+        
+        [System.Runtime.Serialization.DataMemberAttribute()]
+        public decimal UnitPrice {
+            get {
+                return this.UnitPriceField;
+            }
+            set {
+                if ((this.UnitPriceField.Equals(value) != true)) {
+                    this.UnitPriceField = value;
+                    this.RaisePropertyChanged("UnitPrice");
+                }
+            }
+        }
+        
+        public event System.ComponentModel.PropertyChangedEventHandler PropertyChanged;
+        
+        protected void RaisePropertyChanged(string propertyName) {
+            System.ComponentModel.PropertyChangedEventHandler propertyChanged = this.PropertyChanged;
+            if ((propertyChanged != null)) {
+                propertyChanged(this, new System.ComponentModel.PropertyChangedEventArgs(propertyName));
+            }
+        }
+    }
+    
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
     [System.ServiceModel.ServiceContractAttribute(ConfigurationName="MantenimientoServices.IMantenimientosServices")]
     public interface IMantenimientosServices {
@@ -398,6 +619,24 @@ namespace Chinook.UI.WebForm.MantenimientoServices {
         
         [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMantenimientosServices/AddArtist", ReplyAction="http://tempuri.org/IMantenimientosServices/AddArtistResponse")]
         System.Threading.Tasks.Task<bool> AddArtistAsync(Chinook.UI.WebForm.MantenimientoServices.Artist artist);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMantenimientosServices/EditArtist", ReplyAction="http://tempuri.org/IMantenimientosServices/EditArtistResponse")]
+        bool EditArtist(Chinook.UI.WebForm.MantenimientoServices.Artist artist);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMantenimientosServices/EditArtist", ReplyAction="http://tempuri.org/IMantenimientosServices/EditArtistResponse")]
+        System.Threading.Tasks.Task<bool> EditArtistAsync(Chinook.UI.WebForm.MantenimientoServices.Artist artist);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMantenimientosServices/GetArtistById", ReplyAction="http://tempuri.org/IMantenimientosServices/GetArtistByIdResponse")]
+        Chinook.UI.WebForm.MantenimientoServices.Artist GetArtistById(int id);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMantenimientosServices/GetArtistById", ReplyAction="http://tempuri.org/IMantenimientosServices/GetArtistByIdResponse")]
+        System.Threading.Tasks.Task<Chinook.UI.WebForm.MantenimientoServices.Artist> GetArtistByIdAsync(int id);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMantenimientosServices/GetTrackVendidos", ReplyAction="http://tempuri.org/IMantenimientosServices/GetTrackVendidosResponse")]
+        Chinook.UI.WebForm.MantenimientoServices.TracksVendidosQuery[] GetTrackVendidos(string trackName);
+        
+        [System.ServiceModel.OperationContractAttribute(Action="http://tempuri.org/IMantenimientosServices/GetTrackVendidos", ReplyAction="http://tempuri.org/IMantenimientosServices/GetTrackVendidosResponse")]
+        System.Threading.Tasks.Task<Chinook.UI.WebForm.MantenimientoServices.TracksVendidosQuery[]> GetTrackVendidosAsync(string trackName);
     }
     
     [System.CodeDom.Compiler.GeneratedCodeAttribute("System.ServiceModel", "4.0.0.0")]
@@ -481,6 +720,30 @@ namespace Chinook.UI.WebForm.MantenimientoServices {
         
         public System.Threading.Tasks.Task<bool> AddArtistAsync(Chinook.UI.WebForm.MantenimientoServices.Artist artist) {
             return base.Channel.AddArtistAsync(artist);
+        }
+        
+        public bool EditArtist(Chinook.UI.WebForm.MantenimientoServices.Artist artist) {
+            return base.Channel.EditArtist(artist);
+        }
+        
+        public System.Threading.Tasks.Task<bool> EditArtistAsync(Chinook.UI.WebForm.MantenimientoServices.Artist artist) {
+            return base.Channel.EditArtistAsync(artist);
+        }
+        
+        public Chinook.UI.WebForm.MantenimientoServices.Artist GetArtistById(int id) {
+            return base.Channel.GetArtistById(id);
+        }
+        
+        public System.Threading.Tasks.Task<Chinook.UI.WebForm.MantenimientoServices.Artist> GetArtistByIdAsync(int id) {
+            return base.Channel.GetArtistByIdAsync(id);
+        }
+        
+        public Chinook.UI.WebForm.MantenimientoServices.TracksVendidosQuery[] GetTrackVendidos(string trackName) {
+            return base.Channel.GetTrackVendidos(trackName);
+        }
+        
+        public System.Threading.Tasks.Task<Chinook.UI.WebForm.MantenimientoServices.TracksVendidosQuery[]> GetTrackVendidosAsync(string trackName) {
+            return base.Channel.GetTrackVendidosAsync(trackName);
         }
     }
 }

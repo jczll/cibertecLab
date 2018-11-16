@@ -14,14 +14,15 @@ namespace Chinook.DataAccess.Repository
         public IAlbumRepository AlbumRepository { get; private set; }
         public IArtistRepository ArtistRepository { get; private set; }
         public IInvoiceRepository InvoiceRepository { get; private set; }
-
+        public ITrackRepository TrackRepository { get; private set; }
 
         public UnitOfWork(DbContext context)
         {
             _context = context;
             AlbumRepository = new AlbumRepository(_context);
             ArtistRepository = new ArtistRepository(_context);
-            InvoiceRepository = new InvoiceRepository(_context);            
+            InvoiceRepository = new InvoiceRepository(_context);
+            TrackRepository = new TrackRepository(_context);
         }
 
         public int Complete()

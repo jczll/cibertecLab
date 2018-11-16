@@ -23,5 +23,9 @@ namespace Chinook.UI.WebForm
         {
             //Para configurar datos del usuario 
         }
+        void application_Error(object sender, EventArgs e)
+        {
+
+        }
     }
 }

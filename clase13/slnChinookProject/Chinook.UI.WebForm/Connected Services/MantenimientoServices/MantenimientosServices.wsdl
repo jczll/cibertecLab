@@ -51,6 +51,24 @@
   <wsdl:message name="IMantenimientosServices_AddArtist_OutputMessage">
     <wsdl:part name="parameters" element="tns:AddArtistResponse" />
   </wsdl:message>
+  <wsdl:message name="IMantenimientosServices_EditArtist_InputMessage">
+    <wsdl:part name="parameters" element="tns:EditArtist" />
+  </wsdl:message>
+  <wsdl:message name="IMantenimientosServices_EditArtist_OutputMessage">
+    <wsdl:part name="parameters" element="tns:EditArtistResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMantenimientosServices_GetArtistById_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtistById" />
+  </wsdl:message>
+  <wsdl:message name="IMantenimientosServices_GetArtistById_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetArtistByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="IMantenimientosServices_GetTrackVendidos_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetTrackVendidos" />
+  </wsdl:message>
+  <wsdl:message name="IMantenimientosServices_GetTrackVendidos_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetTrackVendidosResponse" />
+  </wsdl:message>
   <wsdl:portType name="IMantenimientosServices">
     <wsdl:operation name="GetData">
       <wsdl:input wsaw:Action="http://tempuri.org/IMantenimientosServices/GetData" message="tns:IMantenimientosServices_GetData_InputMessage" />
@@ -79,6 +97,18 @@
     <wsdl:operation name="AddArtist">
       <wsdl:input wsaw:Action="http://tempuri.org/IMantenimientosServices/AddArtist" message="tns:IMantenimientosServices_AddArtist_InputMessage" />
       <wsdl:output wsaw:Action="http://tempuri.org/IMantenimientosServices/AddArtistResponse" message="tns:IMantenimientosServices_AddArtist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="EditArtist">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMantenimientosServices/EditArtist" message="tns:IMantenimientosServices_EditArtist_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMantenimientosServices/EditArtistResponse" message="tns:IMantenimientosServices_EditArtist_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetArtistById">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMantenimientosServices/GetArtistById" message="tns:IMantenimientosServices_GetArtistById_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMantenimientosServices/GetArtistByIdResponse" message="tns:IMantenimientosServices_GetArtistById_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetTrackVendidos">
+      <wsdl:input wsaw:Action="http://tempuri.org/IMantenimientosServices/GetTrackVendidos" message="tns:IMantenimientosServices_GetTrackVendidos_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IMantenimientosServices/GetTrackVendidosResponse" message="tns:IMantenimientosServices_GetTrackVendidos_OutputMessage" />
     </wsdl:operation>
   </wsdl:portType>
   <wsdl:binding name="BasicHttpBinding_IMantenimientosServices" type="tns:IMantenimientosServices">
@@ -139,6 +169,33 @@
     </wsdl:operation>
     <wsdl:operation name="AddArtist">
       <soap:operation soapAction="http://tempuri.org/IMantenimientosServices/AddArtist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="EditArtist">
+      <soap:operation soapAction="http://tempuri.org/IMantenimientosServices/EditArtist" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetArtistById">
+      <soap:operation soapAction="http://tempuri.org/IMantenimientosServices/GetArtistById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetTrackVendidos">
+      <soap:operation soapAction="http://tempuri.org/IMantenimientosServices/GetTrackVendidos" style="document" />
       <wsdl:input>
         <soap:body use="literal" />
       </wsdl:input>

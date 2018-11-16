@@ -34,3 +34,9 @@ D:\cibertec\Developer\clase12\slnChinookProject\Chinook.Entities.Queries\obj\Deb
 D:\cibertec\Developer\clase12\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.csproj.CoreCompileInputs.cache
 D:\cibertec\Developer\clase12\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.dll
 D:\cibertec\Developer\clase12\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.pdb
+D:\cibertec\Developer\clase13\slnChinookProject\Chinook.Entities.Queries\bin\Debug\Chinook.Entities.Queries.dll
+D:\cibertec\Developer\clase13\slnChinookProject\Chinook.Entities.Queries\bin\Debug\Chinook.Entities.Queries.pdb
+D:\cibertec\Developer\clase13\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.csprojResolveAssemblyReference.cache
+D:\cibertec\Developer\clase13\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.csproj.CoreCompileInputs.cache
+D:\cibertec\Developer\clase13\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.dll
+D:\cibertec\Developer\clase13\slnChinookProject\Chinook.Entities.Queries\obj\Debug\Chinook.Entities.Queries.pdb

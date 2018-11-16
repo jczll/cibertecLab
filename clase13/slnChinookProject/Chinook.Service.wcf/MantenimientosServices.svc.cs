@@ -33,10 +33,23 @@ namespace Chinook.Service.wcf
             return true;
         }
 
+        public bool EditArtist(Artist artist)
+        {
+            unitOfWork.ArtistRepository.update(artist);
+            unitOfWork.Complete();
+            return true;
+        }
+
         public IEnumerable<AlbunesVendidosQuery> GetAlbunesVendidos()
         {
             var data= unitOfWork.AlbumRepository.GetAlbunesVendidos().Take(10);
             return data;
+        }
+
+        public Artist GetArtistById(int id)
+        {
+            var artist = unitOfWork.ArtistRepository.GetById(id);
+            return artist;
         }
 
         public IEnumerable<Artist> GetArtistByName(string artistName)
@@ -65,6 +78,12 @@ namespace Chinook.Service.wcf
                 composite.StringValue += "Suffix";
             }
             return composite;
+        }
+
+        public IEnumerable<TracksVendidosQuery> GetTrackVendidos(string trackName)
+        {
+            var data = unitOfWork.TrackRepository.GetTracksVendidos(trackName).ToList();
+            return data;
         }
 
         IEnumerable<Album> IMantenimientosServices.GetAll()
