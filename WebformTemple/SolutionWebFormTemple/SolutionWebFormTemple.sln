@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04 Chinook.DataAccess.Interfaces", "Chinook.DataAccess.Interfaces\04 Chinook.DataAccess.Interfaces.csproj", "{21845D31-6387-49E2-9B07-7EA13624CD15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03 Chinook.DataAccess.Repository", "Chinook.DataAccess.Repository\03 Chinook.DataAccess.Repository.csproj", "{FA3072E5-6791-4AA9-A596-B42B4315161A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05 Chinook.Entities.Base", "Chinook.Entities.Base\05 Chinook.Entities.Base.csproj", "{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06 Chinook.Entities.Queries", "Chinook.Entities.Queries\06 Chinook.Entities.Queries.csproj", "{63295770-9269-41A3-B616-9710436FA2D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02 Chinook.Service.wcf", "Chinook.Service.wcf\02 Chinook.Service.wcf.csproj", "{D9F855E1-1DAC-4210-89E8-567AD185BF7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01 WebFormTemple", "WebFormTemple\01 WebFormTemple.csproj", "{E9E69D0D-BA12-4189-8C23-F844E52460FB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A} = {D9F855E1-1DAC-4210-89E8-567AD185BF7A}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21845D31-6387-49E2-9B07-7EA13624CD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA3072E5-6791-4AA9-A596-B42B4315161A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA3072E5-6791-4AA9-A596-B42B4315161A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA3072E5-6791-4AA9-A596-B42B4315161A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA3072E5-6791-4AA9-A596-B42B4315161A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E9DB75A-5E8B-425B-BB4E-F7FF93BAC5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63295770-9269-41A3-B616-9710436FA2D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63295770-9269-41A3-B616-9710436FA2D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63295770-9269-41A3-B616-9710436FA2D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63295770-9269-41A3-B616-9710436FA2D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9F855E1-1DAC-4210-89E8-567AD185BF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9E69D0D-BA12-4189-8C23-F844E52460FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9E69D0D-BA12-4189-8C23-F844E52460FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9E69D0D-BA12-4189-8C23-F844E52460FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9E69D0D-BA12-4189-8C23-F844E52460FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A1BA02A-6951-4A3F-A2F1-BD7F1FD9D4C4}
+	EndGlobalSection
+EndGlobal

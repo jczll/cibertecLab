@@ -1,0 +1,127 @@
+2018-11-29 16:51:39,286 [9] INFO  Application Error Inicion de Session, nuevo usuario
+2018-11-29 16:52:04,325 [9] INFO  Application Error Inicion de Session, nuevo usuario
+2018-11-30 17:50:10,698 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 13:44:23,387 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 13:54:39,394 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:11:59,571 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:21:53,245 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:23:58,581 [7] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:24:28,230 [6] ERROR Application Error System.ServiceModel.ActionNotSupportedException: El mensaje con la acción 'http://tempuri.org/IMantenimientosServices/GetUserByLogin' no se puede procesar en el destinatario debido a una falta de coincidencia de ContractFilter en EndpointDispatcher. La razón puede ser que los contratos no coinciden (falta de coincidencia de las acciones entre el remitente y el destinatario) o que el enlace/seguridad no coinciden en el remitente y el destinatario. Compruebe que el remitente y el destinatario tienen el mismo contrato y el mismo enlace (incluidos los requisitos de seguridad, por ejemplo Message, Transport, None).
+
+Server stack trace: 
+   en System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   en System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en WebFormTemple.MantenimientoServices.IMantenimientosServices.GetUserByLogin(String login, String password)
+   en WebFormTemple.MantenimientoServices.MantenimientosServicesClient.GetUserByLogin(String login, String password) en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Connected Services\MantenimientoServices\Reference.cs:línea 2160
+   en WebFormTemple.Usuarios.Ingreso.ValidaUsuario() en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 46
+   en WebFormTemple.Usuarios.Ingreso.Ingresar() en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 23
+   en WebFormTemple.Usuarios.Ingreso.BtnLogin_Click(Object sender, EventArgs e) en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 19
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2018-12-02 14:24:58,629 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:26:31,671 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:27:11,908 [9] ERROR Application Error System.ServiceModel.ActionNotSupportedException: El mensaje con la acción 'http://tempuri.org/IMantenimientosServices/GetUserByLogin' no se puede procesar en el destinatario debido a una falta de coincidencia de ContractFilter en EndpointDispatcher. La razón puede ser que los contratos no coinciden (falta de coincidencia de las acciones entre el remitente y el destinatario) o que el enlace/seguridad no coinciden en el remitente y el destinatario. Compruebe que el remitente y el destinatario tienen el mismo contrato y el mismo enlace (incluidos los requisitos de seguridad, por ejemplo Message, Transport, None).
+
+Server stack trace: 
+   en System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   en System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en WebFormTemple.MantenimientoServices.IMantenimientosServices.GetUserByLogin(String login, String password)
+   en WebFormTemple.MantenimientoServices.MantenimientosServicesClient.GetUserByLogin(String login, String password) en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Connected Services\MantenimientoServices\Reference.cs:línea 2160
+   en WebFormTemple.Usuarios.Ingreso.ValidaUsuario() en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 46
+   en WebFormTemple.Usuarios.Ingreso.Ingresar() en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 23
+   en WebFormTemple.Usuarios.Ingreso.BtnLogin_Click(Object sender, EventArgs e) en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 19
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2018-12-02 14:29:26,687 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:38:11,137 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 14:38:37,246 [10] ERROR Application Error System.ServiceModel.ActionNotSupportedException: El mensaje con la acción 'http://tempuri.org/IMantenimientosServices/GetUserByLogin' no se puede procesar en el destinatario debido a una falta de coincidencia de ContractFilter en EndpointDispatcher. La razón puede ser que los contratos no coinciden (falta de coincidencia de las acciones entre el remitente y el destinatario) o que el enlace/seguridad no coinciden en el remitente y el destinatario. Compruebe que el remitente y el destinatario tienen el mismo contrato y el mismo enlace (incluidos los requisitos de seguridad, por ejemplo Message, Transport, None).
+
+Server stack trace: 
+   en System.ServiceModel.Channels.ServiceChannel.ThrowIfFaultUnderstood(Message reply, MessageFault fault, String action, MessageVersion version, FaultConverter faultConverter)
+   en System.ServiceModel.Channels.ServiceChannel.HandleReply(ProxyOperationRuntime operation, ProxyRpc& rpc)
+   en System.ServiceModel.Channels.ServiceChannel.Call(String action, Boolean oneway, ProxyOperationRuntime operation, Object[] ins, Object[] outs, TimeSpan timeout)
+   en System.ServiceModel.Channels.ServiceChannelProxy.InvokeService(IMethodCallMessage methodCall, ProxyOperationRuntime operation)
+   en System.ServiceModel.Channels.ServiceChannelProxy.Invoke(IMessage message)
+
+Exception rethrown at [0]: 
+   en System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   en System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   en WebFormTemple.MantenimientoServices.IMantenimientosServices.GetUserByLogin(String login, String password)
+   en WebFormTemple.MantenimientoServices.MantenimientosServicesClient.GetUserByLogin(String login, String password) en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Connected Services\MantenimientoServices\Reference.cs:línea 2160
+   en WebFormTemple.Usuarios.Ingreso.ValidaUsuario() en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 46
+   en WebFormTemple.Usuarios.Ingreso.Ingresar() en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 23
+   en WebFormTemple.Usuarios.Ingreso.BtnLogin_Click(Object sender, EventArgs e) en D:\cibertec\Developer\WebformTemple\SolutionWebFormTemple\WebFormTemple\Usuarios\Ingreso_usuarios.aspx.cs:línea 19
+   en System.Web.UI.WebControls.Button.OnClick(EventArgs e)
+   en System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)
+   en System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)
+   en System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)
+2018-12-02 21:00:30,264 [7] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 21:01:44,804 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 21:04:12,585 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 21:08:52,266 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 21:14:58,970 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-02 21:35:26,037 [21] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-03 16:08:36,616 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-03 16:34:36,339 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:03:23,864 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:09:54,861 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:13:18,793 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:13:58,943 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:17:29,151 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:21:22,671 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:39:29,012 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:40:53,585 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:42:07,273 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:43:31,645 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:44:55,191 [7] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:46:23,004 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 11:46:47,483 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-04 12:08:40,608 [59] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 11:17:23,545 [8] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 17:25:33,358 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 17:33:55,487 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 17:34:03,801 [8] ERROR Application Error System.Web.HttpException (0x80004005): El archivo '/Account/login.aspx' no existe.
+   en System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile, Boolean throwIfNotFound, Boolean ensureIsUpToDate)
+   en System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean throwIfNotFound)
+   en System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp)
+   en System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   en System.Web.UI.PageHandlerFactory.GetHandler(HttpContext context, String requestType, String virtualPath, String path)
+   en System.Web.HttpApplication.MaterializeHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   en System.Web.HttpApplication.ExecuteStepImpl(IExecutionStep step)
+   en System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+2018-12-05 17:36:04,594 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 17:47:20,923 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 18:23:21,894 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 18:25:02,322 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 18:27:14,083 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 18:30:49,058 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-05 18:32:44,721 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-15 13:38:18,364 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-15 13:40:24,262 [6] INFO  Application Error Inicion de Session, nuevo usuario
+2018-12-16 18:47:12,929 [6] INFO  Application Error Inicion de Session, nuevo usuario
