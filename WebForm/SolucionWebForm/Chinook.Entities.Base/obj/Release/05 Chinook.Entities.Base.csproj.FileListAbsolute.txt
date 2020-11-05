@@ -1,6 +1,0 @@
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Base\bin\Release\Chinook.Entities.Base.dll
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Base\bin\Release\Chinook.Entities.Base.pdb
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Base\obj\Release\05 Chinook.Entities.Base.csprojAssemblyReference.cache
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Base\obj\Release\05 Chinook.Entities.Base.csproj.CoreCompileInputs.cache
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Base\obj\Release\Chinook.Entities.Base.dll
-C:\cibertec\Developer\wcf\SolutionWCF\Chinook.Entities.Base\obj\Release\Chinook.Entities.Base.pdb
